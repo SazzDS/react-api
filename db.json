@@ -1,0 +1,124 @@
+{
+	"category": 
+	[{
+	    "id": "1",
+	    "title": "Watches",
+	    "link": "/ProductCategory/Watches"
+	},
+	{
+	    "id": "2",
+	    "title": "Electronics",
+	    "children": [
+	      {
+	        "id": "10",
+	        "title": "Mobiles",
+	        "link": "/ProductCategory/Mobiles"
+	      },
+	      {
+	        "id": "11",
+	        "title": "Desktop",
+	        "link": "/ProductCategory/Desktop"
+	      }
+	    ]
+	},
+	{
+	    "id": "3",
+	    "title": "Accesories",
+	    "children": [
+	      {
+	        "id": "12",
+	        "title": "Head Phones",
+	        "link": "/ProductCategory/HeadPhones"
+	      },
+	      {
+	        "id": "13",
+	        "title": "Charger",
+	        "link": "/ProductCategory/Charger"
+	      }
+	    ]
+	},
+	{
+	    "id": "4",
+	    "title": "MEN",
+	    "children": [
+	      {
+	        "id": "14",
+	        "title": "Shirts",
+	        "link": "/ProductCategory/Shirts"
+	      },
+	      {
+	        "id": "15",
+	        "title": "Pants",
+	        "link": "/ProductCategory/Pants"
+	      }
+	    ]
+	},
+	{
+	    "id": "5",
+	    "title": "WOMEN",
+	    "children": [
+	      {
+	        "id": "16",
+	        "title": "Classical",
+	        "link": "/ProductCategory/Classical"
+	      },
+	      {
+	        "id": "17",
+	        "title": "Western",
+	        "link": "/ProductCategory/Western"
+	      }
+	    ]
+	},
+	{
+	    "id": "6",
+	    "title": "TVs & Appliences",
+	    "children": [
+	      {
+	        "id": "18",
+	        "title": "Smart TV",
+	        "link": "/ProductCategory/SmartTV"
+	      },
+	      {
+	        "id": "19",
+	        "title": "Washing Machine",
+	        "link": "/ProductCategory/WashingMachine"
+	      },
+	      {
+	        "id": "20",
+	        "title": "Micro Wave Oven",
+	        "link": "/ProductCategory/MicroWaveOven"
+	      }
+	    ]
+	},
+	{
+	    "id": "21",
+	    "title": "Furniture",
+	    "children": [
+	      {
+	        "id": "22",
+	        "title": "Table",
+	        "link": "/ProductCategory/Table"
+	      },
+	      {
+	        "id": "23",
+	        "title": "Bed",
+	        "link": "/ProductCategory/Bed"
+	      }
+	    ]
+	},
+	{
+	    "id": "7",
+	    "title": "Bags",
+	    "link": "/ProductCategory/Bags"
+	},
+	{
+	    "id": "8",
+	    "title": "Subscriptions",
+	    "link": "/ProductCategory/Subscriptions"
+	},
+	{
+	    "id": "9",
+	    "title": "Sunglasses",
+	    "link": "/ProductCategory/Sunglasses"
+	}]
+}
