@@ -127,17 +127,20 @@
 		"categoryId" : "11",
 		"name" : "Apple IPhone 5s",
 		"company" : "Apple Inc."
-	},{
+	},
+	{
 		"id" : "2",
 		"categoryId" : "11",
 		"name" : "Asus Max M1 Pro",
 		"company" : "ASUS"
-	},{
+	},
+	{
 		"id" : "3",
 		"categoryId" : "11",
 		"name" : "MI Note 7s",
 		"company" : "Xiaomi"
-	},{
+	},
+	{
 		"id" : "4",
 		"categoryId" : "11",
 		"name" : "OPPO F11 Pro",
