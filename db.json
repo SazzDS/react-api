@@ -145,5 +145,56 @@
 		"categoryId" : "10",
 		"name" : "OPPO F11 Pro",
 		"company" : "OPPO"
+	}], 
+	"navigation": 
+	[{
+	    "id": "10",
+	    "title": "Home",
+	    "link": "/"
+	},
+	{
+	    "id": "20",
+	    "title": "Class Preferences",
+	    "link": "/ClassPreferences"
+	},
+	{
+	    "id": "30",
+	    "title": "Session Preferences",
+	    "link": "/SessionPreferences"
+	},
+	{
+	    "id": "40",
+	    "title": "Teacher Preferences",
+	    "link": "/TeacherPreferences"
+	},
+	{
+	    "id": "50",
+	    "title": "Subject Preferences",
+	    "link": "/SubjectPreferences"
+	},
+	{
+	    "id": "60",
+	    "title": "Period Preferences",
+	    "link": "/PeriodPreferences"
+	},
+	{
+	    "id": "70",
+	    "title": "Priority of Subject in Class",
+	    "link": "/PriorityOfSubjectInClass"
+	},
+	{
+	    "id": "80",
+	    "title": "Teachers off Day",
+	    "link": "/TeachersOffDay"
+	},
+	{
+	    "id": "90",
+	    "title": "Generate Timetable",
+	    "link": "/GenerateTimetable"
+	},
+	{
+	    "id": "100",
+	    "title": "Timetable",
+	    "link": "/Timetable"
 	}]
 }
